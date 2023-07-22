@@ -2,7 +2,7 @@
 우리 가족만의 소중한 추억을 기록하고 소통하는 서비스
 
 ## 시스템 아키텍처
-<img src="https://github.com/TeamOwori/.github/assets/89020004/f17b93ab-a213-4a06-a741-2dfa27549d7c"/>
+![image](https://github.com/TeamOwori/.github/assets/89020004/ffac08b1-cd06-46b1-89b3-33e0eed58b49)
 
 
 ## Skills

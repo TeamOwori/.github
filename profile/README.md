@@ -4,7 +4,8 @@
 [API Docs](https://teamowori.github.io/Owori-Api-Docs/)
 
 ## 시스템 아키텍처
-![image](https://github.com/TeamOwori/.github/assets/89020004/ffac08b1-cd06-46b1-89b3-33e0eed58b49)
+![image](https://github.com/TeamOwori/.github/assets/78026977/cd2b710a-a268-4fe6-a3a2-7ae5ba0eed7c)
+
 
 
 ## Skills

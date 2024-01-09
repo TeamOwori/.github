@@ -1,13 +1,6 @@
 # Owori 오월이
 우리 가족만의 소중한 추억을 기록하고 소통하는 서비스
 
-[API Docs](https://teamowori.github.io/Owori-Api-Docs/)
-
-## 시스템 아키텍처
-![image](https://github.com/TeamOwori/.github/assets/78026977/cd2b710a-a268-4fe6-a3a2-7ae5ba0eed7c)
-
-
-
 ## Skills
 |iOS|Backend|Infra/DevOps|Etc|
 |:---:|:---:|:---:|:---:|

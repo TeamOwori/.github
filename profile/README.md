@@ -1,6 +1,10 @@
 # Owori 오월이
 우리 가족만의 소중한 추억을 기록하고 소통하는 서비스
 
+#### 🌻 [Disquiet](https://disquiet.io/product/%EC%98%A4%EC%9B%94%EC%9D%B4)          
+#### 💬 [Instagram](https://instagram.com/owori_official)
+<br>
+
 ## Skills
 |iOS|Backend|Infra/DevOps|Etc|
 |:---:|:---:|:---:|:---:|

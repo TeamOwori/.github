@@ -17,3 +17,4 @@
 |PM, Backend, Deploy|Backend|Backend, DevOps|iOS|Android|Android|Android|Design|Design|
 |<a href="https://github.com/youngeun-dev">@youngeun-dev</a>|<a href="https://github.com/junseokkim">@junseokkim</a>|<a href="https://github.com/ohksj77">@ohksj77</a>|<a href="https://github.com/kyxxgsoo">@kyxxgsoo</a>|<a href="https://github.com/JJJoonngg">@JJJoonngg</a>|<a href="https://github.com/bamin0422">@bamin0422</a>|<a href="https://github.com/posite">@posite</a>|<a href="https://github.com/Hyewon619">@Hyewon619</a>|<a href="https://github.com/serin727">@serin727</a>|
 
+<br>

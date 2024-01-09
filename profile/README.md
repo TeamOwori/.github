@@ -1,5 +1,7 @@
-# Owori 오월이
-우리 가족만의 소중한 추억을 기록하고 소통하는 서비스
+# 오월이
+![Untitled](https://github.com/TeamOwori/.github/assets/78026977/8fd441c9-b174-4cac-a128-a4385f828904)
+모여봐요 우리가족☁️, 우리가족만의 소중한 추억을 기록하고 소통해요
+
 
 #### 🌻 [Disquiet](https://disquiet.io/product/%EC%98%A4%EC%9B%94%EC%9D%B4)          
 #### 💬 [Instagram](https://instagram.com/owori_official)

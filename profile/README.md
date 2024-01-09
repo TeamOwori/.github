@@ -1,4 +1,3 @@
-# 오월이
 ![Untitled](https://github.com/TeamOwori/.github/assets/78026977/8fd441c9-b174-4cac-a128-a4385f828904)
 모여봐요 우리가족☁️, 우리가족만의 소중한 추억을 기록하고 소통해요
 
